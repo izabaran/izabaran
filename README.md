@@ -58,3 +58,11 @@ I'm passionate about the intersection of people and technology. My interests lie
 ---
 
 ### **🚀 Thanks for stopping by! Happy coding!**
+
+___
+
+
+If curious, I am currently listening to:
+
+![Spotify Now Playing](https://spotify-github-profile.kittinanx.com/api/view?uid=31mqrqka2d4dwzguifs5q5hubc4u&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=false)
+

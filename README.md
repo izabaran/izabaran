@@ -1,6 +1,4 @@
-🤠🌵🐴  
-<img src="https://readme-typing-svg.demolab.com?font=Rye&weight=700&size=30&duration=2000&pause=1000&color=D2691E&center=true&vCenter=true&repeat=true&width=500&height=50&lines=🤠Howdy+there,+partner!+🐎" />
-🌵🐄🤠  
+![Howdy Partner](https://readme-typing-svg.demolab.com?font=Rye&weight=700&size=30&duration=2000&pause=1000&color=D2691E&center=true&vCenter=true&repeat=true&width=500&height=50&lines=Howdy+there,+partner!+🤠🐴🌵)
 
 ## Hi, I'm Izabela Baran! 👋 | @izabaran
 
